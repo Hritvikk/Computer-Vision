@@ -36,7 +36,7 @@ while True:
         if lmList[12][2] < lmList[10][2]:
             fingers.append("M")
 
-        # Ring Finger
+        # Ring Finger 
         if lmList[16][2] < lmList[14][2]:
             fingers.append("R")
         
